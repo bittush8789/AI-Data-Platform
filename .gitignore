@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+exports/*
+!exports/.gitkeep
+logs/*
+!logs/.gitkeep
+database/temp_query.db
+.ipynb_checkpoints/
+.streamlit/

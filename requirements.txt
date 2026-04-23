@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+xlrd
+sqlalchemy
+psycopg2-binary
+pymysql
+scikit-learn
+python-dotenv
+groq
+regex
+sqlparse
+reportlab
+matplotlib
